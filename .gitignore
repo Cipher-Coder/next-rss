@@ -32,3 +32,11 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# Any IDE'settings
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
