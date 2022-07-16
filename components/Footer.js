@@ -1,7 +1,7 @@
 const Footer = () => (
   <footer>
     © {new Date().getFullYear()}{' '}
-    <a href="https://mattaz.com">Mattaz Web Design</a>, Built with{' '}
+    <a href="https://getunedited.com">Unedited Labs</a>, Built with{' '}
     <a href="https://nextjs.org">NextJS</a>
     <style jsx>
       {`
